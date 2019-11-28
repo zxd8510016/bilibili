@@ -1,0 +1,10 @@
+/* 样式重置 */
+body,p,h1,h2,h3,h4,h5,h6,dl,dd,input,ul,ol{margin: 0;padding: 0}
+input{outline: none;border: none}
+h3{font-weight: normal}
+li{list-style: none;}
+a{text-decoration: none}
+img{vertical-align: top}
+.clearfix:after{content: '';display: block;clear:both}
+body{font-family: Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;font-size: 12px}
+i,em{font-style: normal}
